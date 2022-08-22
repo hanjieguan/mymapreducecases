@@ -1,0 +1,7 @@
+combiner继承的是reducer,其实就是在map阶段提前了reduce,
+
+只是在单个mapTask里面先reduce,
+
+因此同样也会对相同的Key进行分组
+
+同时，若只有MAP阶段，没有reduce个数，哪怕driver设置了combiner也没有用

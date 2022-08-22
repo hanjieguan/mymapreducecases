@@ -1,0 +1,28 @@
+package com.mytest.mymr.h_outputformat;
+
+import org.apache.hadoop.io.Text;
+import org.apache.hadoop.mapreduce.Reducer;
+
+import java.io.IOException;
+
+public class MyReducer extends Reducer<MyKeyBean, MyBean, Text, MyBean> {
+    @Override
+    protected void reduce(MyKeyBean key, Iterable<MyBean> values, Context context) throws IOException, InterruptedException {
+        long sum_upFlow=0;
+        long sum_downFlow=0;
+        // 2 封装对象
+        MyBean resultBean = new MyBean();
+        Text resultKey = new Text();
+        // 1 遍历所用bean，将其中的上行流量，下行流量分别累加
+        for (MyBean flowBean : values) {
+            sum_upFlow += flowBean.getUpFlow();
+            sum_downFlow += flowBean.getDownFlow();
+        }
+        resultBean.setUpFlow(sum_upFlow);
+        resultBean.setDownFlow(sum_downFlow);
+        resultBean.setSumFlow(resultBean.cacula_sumflow());
+        resultKey.set(key.getPhoneNum());
+        // 3 写出
+        context.write(resultKey, resultBean);
+    }
+}

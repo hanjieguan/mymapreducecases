@@ -1,0 +1,117 @@
+ML,Perl,Groovy,R
+Delphi/Object Pascal,Lisp,Kotlin,SAS,TypeScript,Kotlin,Kotlin
+Go,Prolog,PowerShell
+Awk,SQL,C++,Groovy
+PowerShell,Julia,PL/SQL,Fortran,ML,Rust,MATLAB,R
+Kotlin,Scheme,C,Ada,Perl,Prolog,D,Simulink,Go
+Java,Fortran,Rust,Haskell,VHDL
+RPG,Logo,Apex,Dart,Groovy,C#,Scala
+PL/SQL,Kotlin,RPG,Simulink,Dart,PL/SQL,ML,Java
+C,Simulink,PHP,MATLAB,Delphi/Object Pascal,PHP,Classic Visual Basic,Visual Basic,Java,Scala
+Objective-C,Simulink
+Haskell,PL/SQL,COBOL,SQL,ML,PL/SQL,Go,Julia,C++
+Awk,Awk
+ABAP,Classic Visual Basic,Lua,Scratch,Kotlin,R,COBOL,Dart,Objective-C
+Prolog,TypeScript,PowerShell
+Rust,Simulink,Bash,Scratch,Kotlin,JavaScript,RPG,Ruby,Haskell
+Apex,Ada,Transact-SQL,Bash,ML,Rust
+MATLAB,Kotlin
+Scheme,Classic Visual Basic
+Haskell,SQL,Lua,C#,Haskell
+(Visual) FoxPro,Transact-SQL,JavaScript,Fortran,Bash,Kotlin,Visual Basic,Classic Visual Basic,ML
+Delphi/Object Pascal,Haskell,Haskell,(Visual) FoxPro,Simulink
+Prolog,C#,ABAP,Ada,Groovy,TypeScript
+Dart,Delphi/Object Pascal,COBOL,Ada,C,Assembly language,Go
+PL/SQL,TypeScript,VHDL,RPG,Scala
+Assembly language,MATLAB,Delphi/Object Pascal,Ada,SQL,ML,Kotlin,C,COBOL,C
+C++,Transact-SQL,Bash,Scala,Visual Basic,Scheme,Ruby,R
+Scala,Haskell,PL/SQL
+Lisp,Go
+Assembly language,Java
+C++,Haskell,Scheme,Simulink,Haskell,ABAP,Lua,Lisp,D
+R,TypeScript
+Prolog,(Visual) FoxPro,MATLAB,VHDL,Ruby,RPG,Kotlin,C#,SQL,(Visual) FoxPro
+Prolog
+Lua,JavaScript
+SAS,Simulink
+Logo,C#,Prolog,Haskell,Transact-SQL,Rust
+Scratch,Perl,PowerShell,C,Go,R,Fortran,C++,Logo,Haskell
+Java,C#,Delphi/Object Pascal,Scheme,Groovy,Scala,Simulink
+JavaScript,Apex,Scala,SAS,Visual Basic,Apex,Classic Visual Basic,Swift
+TypeScript,ML,Python,Delphi/Object Pascal
+Delphi/Object Pascal,Kotlin,Scratch,Ruby,Logo,Kotlin,Java,COBOL,RPG
+Apex,Fortran,Fortran,Awk,JavaScript,Prolog,Groovy,VHDL
+RPG,Java,VHDL
+Assembly language,Fortran,SQL,Awk,Fortran,Lua,Julia
+Haskell
+Rust,Ada,Classic Visual Basic,Ruby,Delphi/Object Pascal,PL/SQL,Dart,Haskell,MATLAB
+Dart,C#
+Prolog,Scratch,Groovy,Bash,SAS,Julia,Logo,(Visual) FoxPro,Java,Bash
+Dart,Julia,Ruby,Ada,Objective-C,Perl,Go,Ada,Rust,SQL
+Scratch,Lua,(Visual) FoxPro,Prolog,Ada
+D,Scratch,RPG,(Visual) FoxPro,SQL,SQL,Prolog,C++,RPG
+VHDL,C++,ML,RPG,Lisp
+Lisp
+C++,PowerShell,(Visual) FoxPro,Groovy,RPG,Logo,PowerShell,Prolog
+Ada,ML,SQL,Swift,C#,Logo
+Python,Bash,Transact-SQL,Prolog,RPG,Assembly language
+Scheme,COBOL,SQL,Ada
+RPG,Ruby,Visual Basic,Kotlin,Perl,SAS
+Julia,Classic Visual Basic,Scheme,Prolog,TypeScript,Simulink,RPG,Perl
+Java,Ruby
+(Visual) FoxPro,COBOL,Assembly language
+Python,ABAP,Scala,PL/SQL,JavaScript,Transact-SQL,Prolog,C#
+D,Swift,Groovy,Ruby,Ruby,PHP,Haskell
+Lua,Perl,Ada,Fortran,Python
+Perl,Scheme,Rust,Scratch,C,Go,Swift,C,Lisp,D
+ABAP,RPG
+SQL,Logo,Julia,ML,SQL,Julia,Rust,ABAP,Ruby
+ML,C#,Kotlin,Kotlin,Ruby,Bash,Objective-C,Scala
+Kotlin,Scala,MATLAB,Ruby,Scheme,Lisp
+(Visual) FoxPro,Kotlin,Julia,ABAP,COBOL,Fortran,TypeScript,RPG,PHP,Objective-C
+PHP,SAS,Lisp
+JavaScript,Objective-C
+COBOL,C++,PowerShell,Bash,Dart,C#,Julia,Assembly language,Logo,PowerShell
+RPG,Perl
+TypeScript,PL/SQL,Haskell
+C,Awk,(Visual) FoxPro,Lisp,Transact-SQL,Groovy,(Visual) FoxPro,SAS
+VHDL,Logo,VHDL,Swift,C#,Classic Visual Basic,VHDL,Lisp,(Visual) FoxPro,Lua
+Rust,Swift
+Apex,Awk,Perl,Ruby,SQL,Lisp,ML,VHDL,JavaScript
+Visual Basic
+Dart,Go,PL/SQL,Prolog,ABAP
+Python,Python,Go
+SQL,C#,Swift,RPG,C#
+SAS,Go,Ada,C#,Rust,Awk,Go,SQL,Apex
+(Visual) FoxPro,PHP,Lua,RPG,Apex,SQL,Logo,Lisp,C#
+PL/SQL,Apex,Bash,JavaScript,Bash,Ruby,Julia
+Classic Visual Basic,COBOL,Bash,Prolog,Ada,R,MATLAB,Groovy,Ada,Go
+Lua,VHDL,Lua,Prolog,Scheme,Visual Basic,Python
+Awk,Lua,Logo,Rust
+Dart,SAS,Scheme
+C++,Logo,C#,PHP
+Ada,Bash,Dart,Haskell,Classic Visual Basic,PL/SQL,Scala,Apex
+Rust,PL/SQL,Simulink,Assembly language,Ruby,SAS
+Visual Basic
+Delphi/Object Pascal,PL/SQL,Python,Scratch,Objective-C
+C,Scratch,Logo,PHP,Kotlin,MATLAB,Ada,Swift,Scratch,Kotlin
+Logo,Apex
+Scratch,Delphi/Object Pascal,Groovy,Lisp
+C,Awk,PHP,Objective-C
+Transact-SQL
+JavaScript,Apex,MATLAB,RPG,SAS,Scala
+Lua,Java,Transact-SQL
+Lua,PHP,MATLAB,Prolog
+Classic Visual Basic
+D,C
+Python
+PHP,Ruby
+Fortran
+Prolog,Visual Basic,C,Haskell,Python,Visual Basic,ML,Scala,JavaScript
+Scratch,C#,Classic Visual Basic,ABAP,Julia,Objective-C,Transact-SQL,ML,D,C#
+Kotlin,C,Scala,Perl,Go
+R,Go,Ruby,PL/SQL,ABAP,Lisp,VHDL
+D,JavaScript,Classic Visual Basic,ML
+JavaScript,Transact-SQL,Simulink,D,Assembly language
+SAS
+C,D,ML,Julia,Assembly language,Haskell,Perl,C,Kotlin
